@@ -1,4 +1,8 @@
-<h1>Welcome to my GitHub Page!<h1>
+<img src="images/HAWAII.jpg" width="600" height="500"></img>
+
+
+
+
 
 <h2>Hello there! My name is John! I like biology, coding and video games!</h2>
 
