@@ -1,17 +1,21 @@
 <div align="center">
-<img src="images/HAWAII.jpg" width="600" height="500"></img>
+<img src="images/HAWAII.jpg" width="550" height="475"></img>
 
 
 
 
 <h2>Hello there! My name is John! I like biology, coding and video games!</h2>
 
-Check out my Linkedin profile <a href="https://www.linkedin.com/in/jafo141/">here</a>!
+<h2>Check out my stats:</h2>
 
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyWiseau141)](https://github.com/JohnnyWiseau141/github-readme-stats)
 
 
-## Proficiencies:
+
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyWiseau141&layout=compact&theme=dark" /></a> 
+
+
+## Skills:
 
 <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white" />  </a>
@@ -32,3 +36,11 @@ Check out my Linkedin profile <a href="https://www.linkedin.com/in/jafo141/">her
       <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
+
+
+<h3>Contact:</h3>
+
+<p>Check out my Linkedin profile <a href="https://www.linkedin.com/in/jafo141/">
+<br>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a></p>
+</div>
