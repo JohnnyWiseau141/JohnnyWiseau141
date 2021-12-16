@@ -1,5 +1,5 @@
+<div align="center">
 <img src="images/HAWAII.jpg" width="600" height="500"></img>
-
 
 
 
