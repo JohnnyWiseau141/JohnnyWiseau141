@@ -7,7 +7,7 @@
 <h2>Hello there! My name is John!</h2>
 <h3>About me:</h3>
 
-<p>A developing software engineer with a biotech degree based in Boston. I enjoy learning about modern technology, life, and the tools used to investigate them. I hope to create major contributions in the fields of bioinformatics!</p>
+<p>A developing software engineer with a biotech degree based in Boston. I enjoy learning about modern technology, life, and the tools used to investigate them. I hope to create major contributions in the fields of bioinformatics and more!</p>
 
 <h2>Check out my stats:</h2>
 
