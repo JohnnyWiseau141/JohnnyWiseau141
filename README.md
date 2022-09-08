@@ -9,14 +9,6 @@
 
 <p>A developing software engineer with a biotech degree based in Boston. I enjoy learning about modern technology, life, and the tools used to investigate them. I hope to create major contributions in the fields of bioinformatics and more!</p>
 
-<h2>Check out my stats:</h2>
-
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyWiseau141)](https://github.com/JohnnyWiseau141/github-readme-stats)
-
-
-
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyWiseau141&layout=compact&theme=dark" /></a> 
-
 
 ## Skills:
 
